@@ -1,1 +1,1 @@
-base_url=http://829372aade49.ngrok.io/MyPerfect11API
+base_url=http://deepeshm-63109.portmap.io:63109/MyPerfect11API
